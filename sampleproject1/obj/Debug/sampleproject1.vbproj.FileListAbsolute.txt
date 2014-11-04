@@ -1,0 +1,17 @@
+H:\SEMESTER 1\WEB DESIGN\sampleproject1\sampleproject1\bin\sampleproject1.dll.config
+H:\SEMESTER 1\WEB DESIGN\sampleproject1\sampleproject1\bin\sampleproject1.dll
+H:\SEMESTER 1\WEB DESIGN\sampleproject1\sampleproject1\bin\sampleproject1.pdb
+H:\SEMESTER 1\WEB DESIGN\sampleproject1\sampleproject1\bin\sampleproject1.xml
+H:\SEMESTER 1\WEB DESIGN\sampleproject1\sampleproject1\obj\Debug\sampleproject1.Resources.resources
+H:\SEMESTER 1\WEB DESIGN\sampleproject1\sampleproject1\obj\Debug\sampleproject1.vbproj.GenerateResource.Cache
+H:\SEMESTER 1\WEB DESIGN\sampleproject1\sampleproject1\obj\Debug\sampleproject1.dll
+H:\SEMESTER 1\WEB DESIGN\sampleproject1\sampleproject1\obj\Debug\sampleproject1.xml
+H:\SEMESTER 1\WEB DESIGN\sampleproject1\sampleproject1\obj\Debug\sampleproject1.pdb
+C:\Users\BETELS\Desktop\Materials\web design\sampleproject1\sampleproject1\bin\sampleproject1.dll
+C:\Users\BETELS\Desktop\Materials\web design\sampleproject1\sampleproject1\bin\sampleproject1.pdb
+C:\Users\BETELS\Desktop\Materials\web design\sampleproject1\sampleproject1\bin\sampleproject1.xml
+C:\Users\BETELS\Desktop\Materials\web design\sampleproject1\sampleproject1\obj\Debug\sampleproject1.Resources.resources
+C:\Users\BETELS\Desktop\Materials\web design\sampleproject1\sampleproject1\obj\Debug\sampleproject1.vbproj.GenerateResource.Cache
+C:\Users\BETELS\Desktop\Materials\web design\sampleproject1\sampleproject1\obj\Debug\sampleproject1.dll
+C:\Users\BETELS\Desktop\Materials\web design\sampleproject1\sampleproject1\obj\Debug\sampleproject1.xml
+C:\Users\BETELS\Desktop\Materials\web design\sampleproject1\sampleproject1\obj\Debug\sampleproject1.pdb
