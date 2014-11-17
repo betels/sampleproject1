@@ -15,3 +15,11 @@ C:\Users\BETELS\Desktop\Materials\web design\sampleproject1\sampleproject1\obj\D
 C:\Users\BETELS\Desktop\Materials\web design\sampleproject1\sampleproject1\obj\Debug\sampleproject1.dll
 C:\Users\BETELS\Desktop\Materials\web design\sampleproject1\sampleproject1\obj\Debug\sampleproject1.xml
 C:\Users\BETELS\Desktop\Materials\web design\sampleproject1\sampleproject1\obj\Debug\sampleproject1.pdb
+C:\Users\BETELS\Documents\GitHub\sampleproject1\sampleproject1\bin\sampleproject1.dll
+C:\Users\BETELS\Documents\GitHub\sampleproject1\sampleproject1\bin\sampleproject1.pdb
+C:\Users\BETELS\Documents\GitHub\sampleproject1\sampleproject1\bin\sampleproject1.xml
+C:\Users\BETELS\Documents\GitHub\sampleproject1\sampleproject1\obj\Debug\sampleproject1.Resources.resources
+C:\Users\BETELS\Documents\GitHub\sampleproject1\sampleproject1\obj\Debug\sampleproject1.vbproj.GenerateResource.Cache
+C:\Users\BETELS\Documents\GitHub\sampleproject1\sampleproject1\obj\Debug\sampleproject1.dll
+C:\Users\BETELS\Documents\GitHub\sampleproject1\sampleproject1\obj\Debug\sampleproject1.xml
+C:\Users\BETELS\Documents\GitHub\sampleproject1\sampleproject1\obj\Debug\sampleproject1.pdb
